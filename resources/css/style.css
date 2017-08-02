@@ -1,5 +1,31 @@
-.heading1{
-Font-family: Verdana;
-Font-weight: Normal;
-Text-align: Center;
+*{
+  Font-family: Verdana;
+  Background-color: Black;
+  Text-align: Center;
+  Color: white;
+}
+
+h1{
+  Font-weight: Normal;
+  Font-size: 50px;
+}
+
+h2{
+  Font-weight: 300;
+  Font-size: 42px;
+}
+
+a{
+  Color: Aquamarine important!;
+  Font-size: 16px;
+}
+
+.footer{
+  Text-align: Right important!;
+  Color: Gray imporant!;
+}
+
+#description{
+  Font-size: 21px;
+  Color: Gray important!;
 }
