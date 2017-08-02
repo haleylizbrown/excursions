@@ -20,12 +20,12 @@ a{
   Font-size: 16px;
 }
 
-#description{
+.description{
   Font-size: 21px;
   Color: Gray !important;
 }
 
-#footer{
+.footer{
   Text-align: Right !important;
   Color: Gray !important;
   Font-size: 16px;
