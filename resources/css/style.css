@@ -21,12 +21,12 @@ a{
 }
 
 p.description{
-  Color: Gray !important
+  Color: Gray !important;
   Font-size: 21px;
 }
 
 p.footer{
   Text-align: Right !important;
-  Color: Gray !important
+  Color: Gray !important;
   Font-size: 21px;
 }
