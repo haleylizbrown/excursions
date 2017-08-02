@@ -1,36 +1,32 @@
 *{
   Font-family: Verdana;
   Background-color: Black;
+  Color: white;
+  Text-align: Center;
 }
 
 h1{
   Font-weight: Normal;
   Font-size: 50px;
-  Text-align: Center;
-  Color: white;
 }
 
 h2{
   Font-weight: 300;
   Font-size: 42px;
-  Text-align: Center;
-  Color: white;
 }
 
 a{
-  Color: Aquamarine;
+  Color: Aquamarine !important;
   Font-size: 16px;
-  Text-align: Center;
 }
 
 .description{
   Font-size: 21px;
-  Color: Gray;
-  Text-align: Center;
+  Color: Gray !important;
 }
 
 .footer{
-  Text-align: Right;
-  Color: Gray;
+  Text-align: Right !important;
+  Color: Gray !important;
   Font-size: 16px;
 }
