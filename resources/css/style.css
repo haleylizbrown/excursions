@@ -16,16 +16,16 @@ h2{
 }
 
 a{
-  Color: Aquamarine important!;
+  Color: Aquamarine, important!;
   Font-size: 16px;
 }
 
 .footer{
-  Text-align: Right important!;
-  Color: Gray imporant!;
+  Text-align: Right, important!;
+  Color: Gray, imporant!;
 }
 
 #description{
   Font-size: 21px;
-  Color: Gray important!;
+  Color: Gray, important!;
 }
