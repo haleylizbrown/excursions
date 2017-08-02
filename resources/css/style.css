@@ -20,13 +20,11 @@ a{
   Font-size: 16px;
 }
 
-p.description{
+p{
+  Color: Gray !important
   Font-size: 21px;
-  Color: Gray !important;
 }
 
 p.footer{
   Text-align: Right !important;
-  Color: Gray !important;
-  Font-size: 16px;
 }
